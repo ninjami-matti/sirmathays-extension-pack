@@ -1,0 +1,47 @@
+{
+    "name": "sirmathays-extension-pack",
+    "publisher": "SirMathays",
+    "displayName": "SirMathays's Extension Pack",
+    "description": "Extensions SirMathays uses.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "af4jm.vscode-icalendar", 
+        "amiralizadeh9480.laravel-extra-intellisense", 
+        "bibhasdn.unique-lines", 
+        "bmewburn.vscode-intelephense-client", 
+        "christian-kohler.npm-intellisense", 
+        "codingyu.laravel-goto-view", 
+        "DavidAnson.vscode-markdownlint", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "Equinusocio.vsc-community-material-theme", 
+        "Equinusocio.vsc-material-theme", 
+        "equinusocio.vsc-material-theme-icons", 
+        "fatihacet.gitlab-workflow", 
+        "felixfbecker.php-debug", 
+        "formulahendry.vscode-mysql", 
+        "gerane.Theme-Sunburst", 
+        "GrapeCity.gc-excelviewer", 
+        "johnpapa.Angular2", 
+        "lixquid.calculator", 
+        "maximus136.change-string-case", 
+        "mikestead.dotenv", 
+        "ms-mssql.mssql", 
+        "ms-vscode.sublime-keybindings", 
+        "ms-vsliveshare.vsliveshare", 
+        "neilbrayfield.php-docblocker", 
+        "octref.vetur", 
+        "onecentlin.laravel-blade", 
+        "PKief.material-icon-theme", 
+        "pranaygp.vscode-css-peek", 
+        "sadesyllas.vscode-workspace-switcher", 
+        "tomoki1207.pdf", 
+        "wix.vscode-import-cost"
+    ]
+}
