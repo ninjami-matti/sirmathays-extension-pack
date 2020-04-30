@@ -3,6 +3,9 @@
     "publisher": "SirMathays",
     "displayName": "SirMathays's Extension Pack",
     "description": "Extensions SirMathays uses.",
+    "repository": {
+        "url": "https://github.com/ninjami-matti/sirmathays-extension-pack"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
