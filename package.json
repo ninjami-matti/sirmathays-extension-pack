@@ -29,7 +29,6 @@
         "fatihacet.gitlab-workflow",
         "felixfbecker.php-debug",
         "formulahendry.vscode-mysql",
-        "gerane.Theme-Sunburst",
         "GrapeCity.gc-excelviewer",
         "johnpapa.Angular2",
         "lixquid.calculator",
@@ -45,6 +44,7 @@
         "pranaygp.vscode-css-peek",
         "sadesyllas.vscode-workspace-switcher",
         "tomoki1207.pdf",
-        "wix.vscode-import-cost"
+        "wix.vscode-import-cost",
+        "SirMathays.sirmathays-dark-theme"
     ]
 }
